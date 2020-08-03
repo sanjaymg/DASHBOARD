@@ -83,5 +83,11 @@ body {
 }
 #background {
   background-image:linear-gradient(rgba(27, 26, 3, 0.24),rgba(14, 11, 197, 0.274));}
+.card-common:hover {
+  transform: translateY(-5px);
+  background-color: rgba(68, 68, 68, 0.233);
+  box-shadow: 10px 10px 10px rgba(8, 95, 167, 0.411);
+}
+
 
  
